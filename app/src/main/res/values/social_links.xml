@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook">https://web.facebook.com/profile.php?id=61552436976007</string>
+    <string name="instagram">https://instagram.com</string>
+    <string name="twitter">https://twitter.com</string>
+    <string name="youtube">https://www.youtube.com/@RadioIntegration-rc7kk</string>
+    <string name="whatsapp">+237690373419</string>
+    <string name="tiktok">https://tiktok.com/</string>
+    <string name="linkedin">https://linkedin.com/YOUR_USERNAME</string>
+    <string name="website">https://radiointegration.com/</string>
+    <string name="phone_no">+ 237 690 37 34 19</string>
+
+
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:visible="true"
+            android:title="@string/app_name">
+
+            <menu>
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_recent"
+                    android:icon="@drawable/ic_drawer_home"
+                    android:title="@string/drawer_recent" />
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_permission"
+                    android:icon="@drawable/ic_drawer_permission"
+                    android:title="@string/drawer_permission" />
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_about"
+                    android:icon="@drawable/ic_drawer_about"
+                    android:title="@string/drawer_about" />
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_schedule"
+                    android:icon="@drawable/ic_drawer_rate"
+                    android:title="@string/drawer_schedule" />
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_playlist"
+                    android:icon="@drawable/ic_action_play"
+                    android:title="@string/drawer_playlist" />
+
+            </menu>
+
+        </item>
+
+        <item
+            android:visible="true"
+            android:title="Social Links">
+
+            <menu>
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_facebook"
+                    android:icon="@drawable/facebook"
+                    android:title="Facebook" />
+
+<!--                <item-->
+<!--                    android:visible="true"-->
+<!--                    android:id="@+id/drawer_instagram"-->
+<!--                    android:icon="@drawable/instagram"-->
+<!--                    android:title="Instagram" />-->
+
+<!--                <item-->
+<!--                    android:visible="true"-->
+<!--                    android:id="@+id/drawer_twitter"-->
+<!--                    android:icon="@drawable/twitter"-->
+<!--                    android:title="Twitter" />-->
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_youtube"
+                    android:icon="@drawable/youtube"
+                    android:title="YouTube" />
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_whatsapp"
+                    android:icon="@drawable/whatsapp"
+                    android:title="WhatsApp" />
+
+<!--                <item-->
+<!--                    android:visible="true"-->
+<!--                    android:id="@+id/drawer_tiktok"-->
+<!--                    android:icon="@drawable/tiktok"-->
+<!--                    android:title="TikTok" />-->
+
+<!--                <item-->
+<!--                    android:visible="true"-->
+<!--                    android:id="@+id/drawer_linkedIn"-->
+<!--                    android:icon="@drawable/linkedin"-->
+<!--                    android:title="LinkedIn" />-->
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_website"
+                    android:icon="@drawable/web"
+                    android:title="Website" />
+
+                <item
+                    android:visible="true"
+                    android:id="@+id/drawer_telephone"
+                    android:icon="@drawable/telephone_call"
+                    android:title="Call us" />
+
+            </menu>
+
+        </item>
+
+
+        <item
+            android:visible="true"
+            android:title="Other">
+
+        <menu>
+
+            <item
+                android:visible="true"
+                android:id="@+id/drawer_rate"
+                android:icon="@drawable/ic_drawer_rate"
+                android:title="@string/drawer_rate_us" />
+
+            <item
+                android:visible="true"
+                android:id="@+id/drawer_share"
+                android:icon="@drawable/ic_drawer_share"
+                android:title="@string/drawer_share" />
+
+        </menu>
+
+        </item>
+
+
+
+    </group>
+
+</menu>

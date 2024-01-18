@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">RADIO INTEGRATION</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Accueil</string>
+    <string name="drawer_social">Social</string>
+    <string name="drawer_other">Autres</string>
+    <string name="drawer_schedule">Programmes</string>
+    <string name="drawer_playlist">Playlist</string>
+    <string name="drawer_rate_us">Noté nous</string>
+    <string name="drawer_more_apps">More apps</string>
+    <string name="drawer_share">Partager l"'"application</string>
+    <string name="drawer_privacy_policy">Privacy policy</string>
+    <string name="drawer_permission">Autorisation supplémentaire</string>
+    <string name="drawer_about">À propos</string>
+
+    <!--permission agreement-->
+    <string name="permission_title">Merci d"'"avoir installé application RADIO INTEGRATION </string>
+    <string name="btn_allow_permissions">Autoriser les autorisations maintenant</string>
+    <string name="btn_later">je le ferai plus tard</string>
+    <string name="permission_message">
+        <![CDATA[
+        <p>Veuillez nous donner les autorisations ci-dessous :</p>
+        <p><strong>AUTORISATION TÉLÉPHONIQUE</strong> : il sera utilisé pour arrêter la lecture de la radio lorsqu"'"il y a un appel téléphonique entrant.</p>
+        <p>Ne vous inquiétez pas, nous garantissons que vos données sont 100% sécurisées et nous ne collectons aucune donnée dont vous disposez, l autorisation que vous donnez est uniquement destinée au bon fonctionnement de cette application..</p>
+        ]]>
+    </string>
+
+    <!--about information-->
+    <string name="sub_about_app_copyright">Copyright © 2024 Pink RADIO INTEGRATION. \nAll rights reserved</string>
+    <string name="sub_about_app_version">Version</string>
+
+    <!--sleeping timer-->
+    <string name="sleep_time">Temps de sommeil</string>
+    <string name="min">Minutes</string>
+    <string name="set">Ensemble</string>
+    <string name="cancel">Annuler</string>
+    <string name="stop">Stop</string>
+
+    <!--network & error message-->
+    <string name="failed_title_text">Whoops!</string>
+    <string name="failed_text">Aucune connexion Internet trouvée. Vérifiez votre connexion ou réessayez plus tard!</string>
+    <string name="internet_not_connected">Internet non connecté</string>
+    <string name="error_loading_radio">Erreur lors du chargement de la radio ou du serveur actuellement en panne, veuillez réessayer plus tard.</string>
+    <string name="msg_cancel_update">Mise à jour annulée</string>
+    <string name="msg_success_update">Mise à jour terminée!</string>
+    <string name="msg_failed_update">Mise à jour echouée!</string>
+
+    <!--share-->
+    <string name="share_content">J"'"aimerais partager cela avec vous. Ici, vous pouvez télécharger cette application depuis PlayStore </string>
+
+    <!--exit dialog-->
+    <string name="message">Qu"'"est-ce que vous voulez faire?</string>
+    <string name="dialog_option_cancel">CANCEL</string>
+    <string name="dialog_option_quit">EXIT</string>
+    <string name="dialog_option_minimize">MINIMIZE</string>
+
+    <!--other string tag name-->
+    <string name="option_ok">OK</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="no_radio_selected">Oups, aucune radio sélectionnée!</string>
+    <string name="drawer_open">Ouvrir la navigation</string>
+    <string name="drawer_close">Fermer la navigation</string>
+    <string name="no_social_found">Oups, aucun réseau social disponible pour le moment</string>
+
+</resources>
